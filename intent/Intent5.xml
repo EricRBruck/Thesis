@@ -1,0 +1,169 @@
+<Level> 5 </Level>
+<1> Hand
+    <2> me
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+    <2> her
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+    <2> him
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>
+<1> Give
+    <2> me
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+    <2> her
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+    <2> him
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>
+<1> Lend
+    <2> me
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+    <2> her
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+    <2> him
+        <article> a
+            <object1> pen </object1>
+            <object1> piece_of_paper </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>
+<1> She
+    <2> will_get
+        <article> a
+            <object1> ticket
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>
+<1> He
+    <2> will_get
+        <article> a
+            <object1> ticket
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>
+<1> You
+    <2> will_get
+        <article> a
+            <object1> ticket
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>
+<1> I
+    <2> will_get
+        <article> a
+            <object1> ticket
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+		</article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+		</article>
+	</2>
+</1>

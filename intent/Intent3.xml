@@ -1,0 +1,116 @@
+<Level> 6 </Level>
+<1> Did
+    <2> you
+        <3> see
+            <article> a
+                <object1> student
+                    <6> running_down_the_street </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> teacher
+                    <6> in_class </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> project
+                    <6> left_behind_at_school </6>
+                </object1>
+            </article>
+            <article> an
+                <object1> assignment
+                    <6> left_behind_at_school </6>
+                </object1>
+            </article>
+        </3>
+    </2>
+    <2> she
+        <3> see
+            <article> a
+                <object1> student
+                    <6> running_down_the_street </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> teacher
+                    <6> in_class </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> project
+                    <6> left_behind_at_school </6>
+                </object1>
+            </article>
+            <article> an
+                <object1> assignment
+                    <6> left_behind_at_school </6>
+                </object1>
+            </article>
+        </3>
+    </2>
+    <2> he
+        <3> see
+            <article> a
+                <object1> student
+                    <6> running_down_the_street </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> teacher
+                    <6> in_class </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> project
+                    <6> left_behind_at_school </6>
+                </object1>
+            </article>
+            <article> an
+                <object1> assignment
+                    <6> left_behind_at_school </6>
+                </object1>
+            </article>
+        </3>
+    </2>
+</1>
+<1> Do
+    <2> you
+        <3> see
+            <article> a
+                <object1> student
+                    <6> running_down_the_street </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> teacher
+                    <6> in_class </6>
+                    <6> at_school </6>
+                </object1>
+            </article>
+        </3>
+    </2>
+</1>
+<1> Does
+    <2> she
+        <3> see
+            <article> a
+                <object1> student
+                    <6> running_down_the_street </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> teacher
+                    <6> in_class </6>
+                    <6> at_school </6>
+                </object1>
+            </article>
+            
+        </3>
+    </2>
+    <2> he
+        <3> see
+            <article> a
+                <object1> student
+                    <6> running_down_the_street </6>
+                    <6> at_school </6>
+                </object1>
+                <object1> teacher
+                    <6> in_class </6>
+                    <6> at_school </6>
+                </object1>
+            </article>
+        </3>
+    </2>
+</1>

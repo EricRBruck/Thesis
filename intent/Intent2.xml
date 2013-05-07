@@ -1,0 +1,115 @@
+<Level> 4 </Level>
+<1> He
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+        </article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+        </article>
+    </2>
+    <2> played
+        <article> a
+            <object1> game </object1>
+            <object1> song </object1>
+        </article>
+        <article> an
+            <object1> instrument </object1>
+        </article>
+    </2>
+    <2> spoke_to
+        <article> a
+            <object1> student </object1>
+            <object1> teacher </object1>
+        </article>
+    </2>
+    <2> sang
+        <article> a
+            <object1> song </object1>
+        </article>
+    </2>
+    <2> played
+        <article> a
+            <object1> song </object1>
+        </article>
+        <article> an
+            <object1> instrument </object1>
+        </article>
+    </2>
+</1>
+<1> She
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+        </article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+        </article>
+    </2>
+    <2> played
+        <article> a
+            <object1> game </object1>
+            <object1> song </object1>
+        </article>
+        <article> an
+            <object1> instrument </object1>
+        </article>
+    </2>
+    <2> spoke_to
+        <article> a
+            <object1> student </object1>
+            <object1> teacher </object1>
+        </article>
+    </2>
+    <2> sang
+        <article> a
+            <object1> song </object1>
+        </article>
+    </2>
+    <2> played
+        <article> a
+            <object1> song </object1>
+        </article>
+        <article> an
+            <object1> instrument </object1>
+        </article>
+    </2>
+</1>
+<1> I
+    <2> ate
+        <article> a
+            <object1> banana </object1>
+        </article>
+        <article> an
+            <object1> apple </object1>
+            <object1> orange </object1>
+        </article>
+    </2>
+    <2> played
+        <article> a
+            <object1> game </object1>
+            <object1> song </object1>
+        </article>
+        <article> an
+            <object1> instrument </object1>
+        </article>
+    </2>
+    <2> spoke_to
+        <article> a
+            <object1> student </object1>
+            <object1> teacher </object1>
+        </article>
+    </2>
+    <2> sang
+        <article> a
+            <object1> song </object1>
+        </article>
+    </2>
+    <2> played
+        <article> an
+            <object1> instrument </object1>
+        </article>
+    </2>
+</1>

@@ -1,0 +1,124 @@
+<Level> 4 </Level>
+<article> The
+    <object1> students
+        <3> NONE
+            <4> yelled </4>
+            <4> worked_hard </4>
+            <4> read_books </4>
+        </3>
+        <3> are
+            <4> late </4>
+            <4> early </4>
+            <4> in_class </4>
+            <4> eating_lunch </4>
+        </3>
+        <3> were
+            <4> late </4>
+            <4> early </4>
+            <4> nice </4>
+        </3>
+        <3> did
+            <4> their_homework </4>
+        </3>
+    </object1>
+    <object1> teachers
+        <3> NONE
+            <4> yelled </4>
+            <4> work_hard </4>
+            <4> read_books </4>
+        </3>
+        <3> are
+            <4> late </4>
+            <4> early </4>
+            <4> in_class </4>
+            <4> eating_lunch </4>
+        </3>
+        <3> were
+            <4> late </4>
+            <4> early </4>
+            <4> nice </4>
+        </3>
+        <3> correct
+            <4> homework </4>
+        </3>
+    </object1>
+    <object1> assistants
+        <3> NONE
+            <4> yelled </4>
+            <4> play_music </4>
+        </3>
+        <3> are
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> were
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> do
+            <4> good_work </4>
+        </3>
+    </object1>
+    <object1> employees
+        <3> NONE
+            <4> yelled </4>
+            <4> worked_hard </4>
+        </3>
+        <3> are
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> were
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> work
+            <4> hard </4>
+        </3>
+    </object1>
+    <object1> cars
+        <3> are
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+    </object1>
+    <object1> pens
+        <3> are
+            <4> blue </4>
+            <4> black </4>
+            <4> red </4>
+            <4> empty </4>
+        </3>
+    </object1>
+    <object1> children
+        <3> NONE
+            <4> yelled_at_me </4>
+            <4> listen_to_music </4>
+            <4> read_books </4>
+        </3>
+        <3> are
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> were
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> work
+            <4> hard </4>
+        </3>
+    </object1>
+    <object1> lions
+        <3> are
+            <4> dangerous </4>
+            <4> carnivorous </4>
+        </3>
+    </object1>
+</article>

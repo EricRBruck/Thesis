@@ -1,0 +1,119 @@
+<Level> 4 </Level>
+<article> The
+    <object1> student
+        <3> NONE
+            <4> yelled </4>
+            <4> is_playing_outside </4>
+        </3>
+        <3> is
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> was
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> does
+            <4> homework </4>
+        </3>
+    </object1>
+    <object1> teacher
+        <3> NONE
+            <4> yelled </4>
+            <4> played_music </4>
+        </3>
+        <3> is
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> was
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> does
+            <4> work </4>
+        </3>
+    </object1>
+    <object1> assistant
+        <3> NONE
+            <4> yelled </4>
+        </3>
+        <3> is
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> was
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> helps
+            <4> me </4>
+        </3>
+    </object1>
+    <object1> employee
+        <3> NONE
+            <4> yelled </4>
+            <4> played_music </4>
+        </3>
+        <3> is
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> was
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> works
+            <4> hard </4>
+        </3>
+    </object1>
+    <object1> car
+        <3> is
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+            <4> red </4>
+            <4> black </4>
+        </3>
+        <3> was
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+    </object1>
+    <object1> pen
+        <3> is
+            <4> blue </4>
+            <4> red </4>
+            <4> black </4>
+            <4> empty </4>
+        </3>
+    </object1>
+    <object1> child
+        <3> NONE
+            <4> yelled </4>
+            <4> played_outside_today </4>
+        </3>
+        <3> is
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> was
+            <4> fast </4>
+            <4> big </4>
+            <4> small </4>
+        </3>
+        <3> did
+            <4> homework </4>
+        </3>
+    </object1>
+</article>

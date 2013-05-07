@@ -1,0 +1,2 @@
+g++ -o CLIENT CLIENT.cpp PM.cpp QG.cpp ST.cpp UI.cpp
+./CLIENT

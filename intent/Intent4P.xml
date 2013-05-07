@@ -1,0 +1,88 @@
+<Level> 4 </Level>
+<article> NONE
+    <object1> Lions
+        <3> are
+            <4> dangerous </4>
+            <4> carnivorous </4>
+            <4> big </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Tigers
+        <3> are
+            <4> dangerous </4>
+            <4> carnivorous </4>
+            <4> big </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Dogs
+        <3> are
+            <4> dangerous </4>
+            <4> loyal </4>
+            <4> big </4>
+            <4> nice </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Apples
+        <3> are
+            <4> good </4>
+        </3>
+        <3> taste
+            <4> good </4>
+        </3>
+        <3> smell
+            <4> good </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Oranges
+        <3> are
+            <4> good </4>
+        </3>
+        <3> taste
+            <4> good </4>
+        </3>
+        <3> smell
+            <4> good </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Bananas
+        <3> are
+            <4> good </4>
+        </3>
+        <3> taste
+            <4> good </4>
+        </3>
+        <3> smell
+            <4> good </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Alligators
+        <3> are
+            <4> dangerous </4>
+            <4> carnivorous </4>
+            <4> big </4>
+        </3>
+    </object1>
+</article>
+<article> NONE
+    <object1> Flowers
+        <3> are
+            <4> nice </4>
+        </3>
+        <3> smell
+            <4> good </4>
+            <4> nice </4>
+        </3>
+    </object1>
+</article>

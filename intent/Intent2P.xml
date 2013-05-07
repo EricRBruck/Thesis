@@ -1,0 +1,79 @@
+<Level> 4 </Level>
+<1> He
+    <2> eats
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+    </2>
+    <2> plays
+		<article> NONE
+            <object1> music </object1>
+            <object1> instruments </object1>
+		</article>
+    </2>
+    <2> spoke_to
+		<article> NONE
+            <object1> students </object1>
+            <object1> teachers </object1>
+		</article>
+    </2>
+    <2> sings
+		<article> NONE
+            <object1> songs </object1>
+		</article>
+    </2>
+</1>
+<1> She
+    <2> eats
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+    </2>
+    <2> plays
+		<article> NONE
+            <object1> music </object1>
+            <object1> instruments </object1>
+		</article>
+    </2>
+    <2> spoke_to
+		<article> NONE
+            <object1> students </object1>
+            <object1> teachers </object1>
+		</article>
+    </2>
+    <2> sings
+		<article> NONE
+            <object1> songs </object1>
+		</article>
+    </2>
+</1>
+<1> I
+    <2> eat
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+    </2>
+    <2> played
+		<article> NONE
+            <object1> music </object1>
+            <object1> instruments </object1>
+		</article>
+    </2>
+    <2> spoke_to
+		<article> NONE
+            <object1> students </object1>
+            <object1> teachers </object1>
+		</article>
+    </2>
+    <2> sing
+		<article> NONE
+            <object1> songs </object1>
+		</article>
+    </2>
+</1>

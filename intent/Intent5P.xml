@@ -1,0 +1,65 @@
+<Level> 5 </Level>
+<1> She
+    <2> will_get
+		<article> NONE
+            <object1> tickets
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> eats
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+	</2>
+</1>
+<1> He
+    <2> will_get
+		<article> NONE
+            <object1> tickets
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> eats
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+	</2>
+</1>
+<1> You
+    <2> will_get
+		<article> NONE
+            <object1> tickets
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> eat
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+	</2>
+</1>
+<1> I
+    <2> will_get
+		<article> NONE
+            <object1> tickets
+				<5> for_driving_too_fast </5>
+			</object1>
+		</article>
+	</2>
+    <2> eat
+		<article> NONE
+            <object1> apples </object1>
+            <object1> oranges </object1>
+            <object1> bananas </object1>
+		</article>
+	</2>
+</1>
